@@ -4,7 +4,9 @@
 <ul>
 <h2>Estrutura do Projeto</h2>
 
-HTML (HyperText Markup Language):
+HTML (HyperText Markup Language):<br>
+CSS (Cascading Style Sheets)<br>
+JavaScript
 
 <li>Construção da estrutura básica da página, incluindo cabeçalho, seções de serviços, galeria de produtos e um formulário de contato.<br>
 
@@ -16,4 +18,8 @@ HTML (HyperText Markup Language):
 <li>Implementação de interatividade, como exibição dinâmica de produtos, validação do formulário de contato e envio de mensagens.
 Criação de animações sutis, como transições ao passar o mouse sobre botões ou imagens.
 </ul>
+<br>
+<br>
+
+<img src="https://github.com/Erisson10/Refri-do-Dev/blob/main/dev%20refri.png?raw=true">
 
